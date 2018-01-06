@@ -1,0 +1,356 @@
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Content\pretty speedrunners bkgrnd.xnb
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Content\bk.xnb
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL4\Desktop\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Content\rainbow box.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Content\Pretty desert backgrnd.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Content\Pikachu.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Content\candy.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Content\potion.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2015\Projects\SpeedRunners SM\SpeedRunners_SM\bin\x86\Debug\Content\smb.xnb
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Content\Pretty desert backgrnd.xnb
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Content\Pikachu.xnb
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Content\candy.xnb
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Content\potion.xnb
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Content\smb.xnb
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL6\Desktop\SpeedRunners SM-swag\SpeedRunners_SM\bin\x86\Debug\Content\egg.png.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pretty desert backgrnd.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\candy.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\potion.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\egg.png.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Bulbasaur.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Charmander.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\ThunderBolt.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Squirtle.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pikachu.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Levels.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Ded Pikachu.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Obstacle.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Gameover.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\GoodBrick.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Slow Orang.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Speed BLue.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pretty desert backgrnd.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\candy.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\potion.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Obstacle.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\egg.png.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Bulbasaur.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Charmander.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\ThunderBolt.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Squirtle.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pikachu.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Ded Pikachu.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Gameover.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\GoodBrick.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Slow Orang.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Speed BLue.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Levels.xnb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL11\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pretty desert backgrnd.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\candy.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\potion.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Obstacle.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\egg.png.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Charmander.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\ThunderBolt.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Squirtle.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pikachu.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Ded Pikachu.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Gameover.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\GoodBrick.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Slow Orang.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Speed BLue.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Levels.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pretty desert backgrnd.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\candy.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\potion.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Obstacle.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\egg.png.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Bulbasaur.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Charmander.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\ThunderBolt.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Squirtle.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pikachu.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Ded Pikachu.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Gameover.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\GoodBrick.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Slow Orang.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Speed BLue.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Momodora_III_Background_Old_Madryn.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Levels.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.exe
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.csprojResolveAssemblyReference.cache
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GMRInstructor\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\2ndBackground.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Momodora_III_Background_Old_Madryn.xnb
+C:\Users\VisitorDL8\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\2ndBackground.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pretty desert backgrnd.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\candy.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\potion.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Obstacle.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\egg.png.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Bulbasaur.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Charmander.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\ThunderBolt.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Squirtle.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pikachu.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Ded Pikachu.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Gameover.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\GoodBrick.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Slow Orang.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Speed BLue.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Momodora_III_Background_Old_Madryn.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\2ndBackground.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Levels.xnb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.exe
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.csprojResolveAssemblyReference.cache
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\GMRInstructor\Desktop\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\OtherBackground.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\Momodora_III_Background_Old_Madryn.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\OtherBackground.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\2ndBackground.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM-swag NEW\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemon.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Pretty desert backgrnd.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\candy.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\potion.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Obstacle.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\egg.png.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemon.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Charmander.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\ThunderBolt.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Squirtle.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Pikachu.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Ded Pikachu.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Gameover.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\GoodBrick.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Slow Orang.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Speed BLue.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Momodora_III_Background_Old_Madryn.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\OtherBackground.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\2ndBackground.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemonProjectile.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemonDED.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Levels.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Rock.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Pretty desert backgrnd.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\candy.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\potion.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Obstacle.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\egg.png.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemon.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Charmander.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Squirtle.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Pikachu.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Ded Pikachu.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Gameover.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\GoodBrick.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Slow Orang.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Speed BLue.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Momodora_III_Background_Old_Madryn.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\OtherBackground.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\2ndBackground.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemonProjectile.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemonDED.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Rock.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Levels.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\ThunderBolt.xnb
+C:\Users\VisitorDL8\Documents\Visual Studio 2017\Projects\RS_Red-Black_Tree\SpeedRunners SM 10-28-17 end of class\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball2.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Pretty desert backgrnd.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\candy.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\potion.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Obstacle.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\egg.png.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemon.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Charmander.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Squirtle.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Pikachu.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Ded Pikachu.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Gameover.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\GoodBrick.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Slow Orang.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Speed BLue.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\OtherBackground.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\2ndBackground.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemonDED.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Thunderbolt.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemonProjectile.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Rock.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball2.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Levels.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.exe
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\remy-diaz-decor-sous-marin-04.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.csprojResolveAssemblyReference.cache
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\cityBackgrnd.xnb

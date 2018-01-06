@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Pretty desert backgrnd.png</Source>
+      <Name>Pretty desert backgrnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Pretty desert backgrnd.xnb</Output>
+      <Time>2017-06-10T12:05:36-07:00</Time>
+    </Item>
+    <Item>
+      <Source>candy 4 poke.png</Source>
+      <Name>candy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\candy.xnb</Output>
+      <Time>2017-02-11T11:24:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>potion poke.png</Source>
+      <Name>potion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\potion.xnb</Output>
+      <Time>2017-02-11T11:25:08-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Obstacle.png</Source>
+      <Name>Obstacle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Obstacle.xnb</Output>
+      <Time>2017-05-06T11:43:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>egg.png</Source>
+      <Name>egg.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\egg.png.xnb</Output>
+      <Time>2017-02-25T11:25:58-08:00</Time>
+    </Item>
+    <Item>
+      <Source>otherPokemon.png</Source>
+      <Name>otherPokemon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemon.xnb</Output>
+      <Time>2017-11-04T11:16:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Charmander.png</Source>
+      <Name>Charmander</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Charmander.xnb</Output>
+      <Time>2017-03-11T12:13:18-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Squirtle.png</Source>
+      <Name>Squirtle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Squirtle.xnb</Output>
+      <Time>2017-03-11T12:11:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Pikachu.png</Source>
+      <Name>Pikachu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Pikachu.xnb</Output>
+      <Time>2017-10-01T13:44:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Ded Pikachu.png</Source>
+      <Name>Ded Pikachu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Ded Pikachu.xnb</Output>
+      <Time>2017-10-01T13:46:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Gameover.png</Source>
+      <Name>Gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Gameover.xnb</Output>
+      <Time>2017-06-17T11:01:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Pokeball.png</Source>
+      <Name>Pokeball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball.xnb</Output>
+      <Time>2017-07-15T12:20:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Good brick.png</Source>
+      <Name>GoodBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\GoodBrick.xnb</Output>
+      <Time>2017-08-05T11:24:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Stamina Slow Orang.png</Source>
+      <Name>Stamina Slow Orang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Slow Orang.xnb</Output>
+      <Time>2017-08-26T11:24:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Stamina Speed BLue.png</Source>
+      <Name>Stamina Speed BLue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Speed BLue.xnb</Output>
+      <Time>2017-08-26T11:16:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>OtherBackground.png</Source>
+      <Name>OtherBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\OtherBackground.xnb</Output>
+      <Time>2017-10-21T11:40:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>2ndBackground.png</Source>
+      <Name>2ndBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\2ndBackground.xnb</Output>
+      <Time>2017-10-21T13:20:36-07:00</Time>
+    </Item>
+    <Item>
+      <Source>otherPokemonDED.png</Source>
+      <Name>otherPokemonDED</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemonDED.xnb</Output>
+      <Time>2017-12-16T11:29:32-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Thunderbolt.png</Source>
+      <Name>Thunderbolt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Thunderbolt.xnb</Output>
+      <Time>2017-11-25T11:30:32-08:00</Time>
+    </Item>
+    <Item>
+      <Source>otherPokemonProjectile.png</Source>
+      <Name>otherPokemonProjectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemonProjectile.xnb</Output>
+      <Time>2017-12-02T11:43:54-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Rock.png</Source>
+      <Name>Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Rock.xnb</Output>
+      <Time>2017-12-16T12:13:26-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Pokeball2.png</Source>
+      <Name>Pokeball2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball2.xnb</Output>
+      <Time>2017-12-16T12:17:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>remy-diaz-decor-sous-marin-04.jpg</Source>
+      <Name>remy-diaz-decor-sous-marin-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\remy-diaz-decor-sous-marin-04.xnb</Output>
+      <Time>2018-01-06T12:11:53.6138697-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels.spritefont</Source>
+      <Name>Levels</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Levels.xnb</Output>
+      <Time>2017-10-28T12:13:34-07:00</Time>
+    </Item>
+    <Item>
+      <Source>cityBackgrnd.png</Source>
+      <Name>cityBackgrnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\cityBackgrnd.xnb</Output>
+      <Time>2018-01-06T12:26:58.6216305-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6CF6DDE0-0EAE-44EE-8975-831D77F5A646}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SMContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-10-23T14:14:46.1774408-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
