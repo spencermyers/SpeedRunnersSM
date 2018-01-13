@@ -351,6 +351,10 @@ C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\D
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.exe
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.pdb
-C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\remy-diaz-decor-sous-marin-04.xnb
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\obj\x86\Debug\SpeedRunners_SM.csprojResolveAssemblyReference.cache
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\cityBackgrnd.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\SquirtleAttack.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\DEDSquirtle.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\MasterBALL.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\SHel.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Otherbackground 2.xnb

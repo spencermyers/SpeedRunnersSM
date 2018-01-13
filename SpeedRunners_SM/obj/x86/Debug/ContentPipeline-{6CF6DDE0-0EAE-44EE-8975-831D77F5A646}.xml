@@ -200,15 +200,6 @@
       <Time>2017-12-16T12:17:12-08:00</Time>
     </Item>
     <Item>
-      <Source>remy-diaz-decor-sous-marin-04.jpg</Source>
-      <Name>remy-diaz-decor-sous-marin-04</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\remy-diaz-decor-sous-marin-04.xnb</Output>
-      <Time>2018-01-06T12:11:53.6138697-08:00</Time>
-    </Item>
-    <Item>
       <Source>Levels.spritefont</Source>
       <Name>Levels</Name>
       <Importer>FontDescriptionImporter</Importer>
@@ -225,6 +216,51 @@
       <Options>None</Options>
       <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\cityBackgrnd.xnb</Output>
       <Time>2018-01-06T12:26:58.6216305-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SquirtleAttack.png</Source>
+      <Name>SquirtleAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\SquirtleAttack.xnb</Output>
+      <Time>2018-01-13T11:23:45.6950234-08:00</Time>
+    </Item>
+    <Item>
+      <Source>DEDSquirtle.png</Source>
+      <Name>DEDSquirtle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\DEDSquirtle.xnb</Output>
+      <Time>2018-01-13T11:55:10.4477549-08:00</Time>
+    </Item>
+    <Item>
+      <Source>MasterBALL.png</Source>
+      <Name>MasterBALL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\MasterBALL.xnb</Output>
+      <Time>2018-01-13T12:08:43.3036604-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SHel.png</Source>
+      <Name>SHel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\SHel.xnb</Output>
+      <Time>2018-01-13T12:06:20.4409108-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Otherbackground 2.png</Source>
+      <Name>Otherbackground 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Otherbackground 2.xnb</Output>
+      <Time>2018-01-06T12:11:53.6138697-08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

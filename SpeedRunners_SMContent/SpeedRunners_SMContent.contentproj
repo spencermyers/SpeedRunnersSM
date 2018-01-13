@@ -192,8 +192,28 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="remy-diaz-decor-sous-marin-04.jpg">
-      <Name>remy-diaz-decor-sous-marin-04</Name>
+    <Compile Include="SquirtleAttack.png">
+      <Name>SquirtleAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="DEDSquirtle.png">
+      <Name>DEDSquirtle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="MasterBALL.png">
+      <Name>MasterBALL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Otherbackground 2.png">
+      <Name>Otherbackground 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="SHel.png">
+      <Name>SHel</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

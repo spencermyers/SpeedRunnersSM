@@ -65,6 +65,13 @@ namespace SpeedRunners_SM
         Texture2D otherPokemonDED;
         Texture2D otherPokeball;
 
+        Texture2D elseBackground;
+        Texture2D elsePokemon;
+        Texture2D elsePokemonProjectile;
+        Texture2D elsePokemonObstacle;
+        Texture2D elsePokemonDED;
+        Texture2D elsePokeball;
+
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -108,6 +115,13 @@ namespace SpeedRunners_SM
             otherPokemonDED = Content.Load<Texture2D>("otherPokemonDED");
             otherPokemonObstacle = Content.Load<Texture2D>("Rock");
             otherPokeball = Content.Load<Texture2D>("Pokeball2");
+
+            elseBackground = Content.Load<Texture2D>("Otherbackground 2");
+            elsePokemon = Content.Load<Texture2D>("Squirtle");
+            elsePokemonProjectile = Content.Load<Texture2D>("SquirtleAttack");
+            elsePokemonDED = Content.Load<Texture2D>("DEDSquirtle");
+            elsePokemonObstacle = Content.Load<Texture2D>("SHel");
+            elsePokeball = Content.Load<Texture2D>("MasterBALL");
             
             Texture2D pikachuImage = Content.Load<Texture2D>("Pikachu");
             Texture2D thunderBolt = Content.Load<Texture2D>("Thunderbolt");
@@ -179,19 +193,19 @@ namespace SpeedRunners_SM
 
                     //thunderBolt = new ThunderBolt(otherPokemonProjectile, Vector2.Zero, Color.White, Vector2 );
                 }
-                if (level == 5)
-                {
-
-                }
-                staminaBar.staminaPercentage = 100;
-                delay = new TimeSpan( TimeSpan.TicksPerMillisecond * (4500 / level) );
-                pikachu.Reset(0, pikachu.Position.Y);
-                addNewObstacle();
-                elapsedTime = TimeSpan.Zero;
+                
 
                 if (level == 10)
                 {
                     //get dead texture for squirtle and attack texture
+                    scrolling = new ScrollingBackground(otherBackground);
+                    GoodBricks.Clear();
+                    GoodBrickImage = elsePokemonObstacle;
+                    obstacles.Clear();
+                    obstacleImage = elsePokeball;
+                    pikachu = new Pokemon(elsePokemon, new Vector2(10, 700 - elsePokemon.Height), Color.White, elsePokemonProjectile, elsePokemonDED);
+
+
 
                 }
             }
