@@ -36,7 +36,7 @@ namespace SpeedRunners_SM
             pokemonState = PokemonState.alive;
             this.deadTexture = deadTexture;
             initialJump = false;
-            maxJumpTime = TimeSpan.FromMilliseconds(1000);
+            maxJumpTime = TimeSpan.FromMilliseconds(10000000);
         }
 
 
@@ -99,7 +99,7 @@ namespace SpeedRunners_SM
                     if (ShotsAmount > 0)
                     {
                         ShotsAmount--;
-                        thunderBolts.Add(new ThunderBolt(attackTexture, new Vector2 (position.X, position.Y + attackTexture.Height), Color.White, new Vector2(80, 0)));
+                        thunderBolts.Add(new ThunderBolt(attackTexture, new Vector2 (position.X, position.Y + attackTexture.Height), Color.White, new Vector2(60, 0)));
                     }
                     
                 }

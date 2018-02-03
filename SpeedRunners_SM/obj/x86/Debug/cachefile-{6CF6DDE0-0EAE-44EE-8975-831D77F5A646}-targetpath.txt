@@ -13,7 +13,6 @@ Content\Pokeball.xnb
 Content\GoodBrick.xnb
 Content\Stamina Slow Orang.xnb
 Content\Stamina Speed BLue.xnb
-Content\OtherBackground.xnb
 Content\2ndBackground.xnb
 Content\otherPokemonDED.xnb
 Content\Thunderbolt.xnb
@@ -26,4 +25,5 @@ Content\SquirtleAttack.xnb
 Content\DEDSquirtle.xnb
 Content\MasterBALL.xnb
 Content\SHel.xnb
-Content\Otherbackground 2.xnb
+Content\Otherbackground 3.xnb
+Content\SquirtleAttack2.xnb

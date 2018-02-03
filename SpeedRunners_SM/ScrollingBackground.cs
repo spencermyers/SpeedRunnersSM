@@ -27,9 +27,9 @@ namespace SpeedRunners_SM
 
         public void Update(int offset)
         {
-            background[0].Position = new Vector2(-(offset % width), 0);
-            background[1].Position = new Vector2(-(offset % width) + width, 0);
-            background[2].Position = new Vector2(-(offset % width) - width, 0);
+            background[0].Position = new Vector2(+(offset % width), 0);
+            background[1].Position = new Vector2(+(offset % width) + width, 0);
+            background[2].Position = new Vector2(+(offset % width) + width + width, 0);
         }
         public void Draw(SpriteBatch spriteBatch)
         {

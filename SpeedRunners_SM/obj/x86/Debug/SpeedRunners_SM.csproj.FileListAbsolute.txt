@@ -328,7 +328,6 @@ C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\D
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\GoodBrick.xnb
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Slow Orang.xnb
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Stamina Speed BLue.xnb
-C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\OtherBackground.xnb
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\2ndBackground.xnb
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\otherPokemonDED.xnb
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Thunderbolt.xnb
@@ -357,4 +356,5 @@ C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\D
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\DEDSquirtle.xnb
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\MasterBALL.xnb
 C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\SHel.xnb
-C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Otherbackground 2.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Otherbackground 3.xnb
+C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\SquirtleAttack2.xnb

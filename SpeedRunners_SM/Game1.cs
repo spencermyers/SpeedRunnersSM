@@ -59,7 +59,6 @@ namespace SpeedRunners_SM
         Texture2D otherBackground;
         Texture2D otherPokemon;
         Texture2D thirdPokemon;
-        Texture2D fourthPokemon;
         Texture2D otherPokemonProjectile;
         Texture2D otherPokemonObstacle;
         Texture2D otherPokemonDED;
@@ -97,7 +96,7 @@ namespace SpeedRunners_SM
         }
 
         /// <summary>
-        /// LoadContent will be called once per game and is the place to load
+        /// LoadContent will be called once per game and is the place to load7
         /// all of your content.
         /// </summary> 
         protected override void LoadContent()
@@ -107,6 +106,7 @@ namespace SpeedRunners_SM
             spriteBatch = new SpriteBatch(GraphicsDevice);
             Texture2D background = Content.Load<Texture2D>("Pretty desert backgrnd");
             scrolling = new ScrollingBackground(background);
+
             
 
             otherBackground = Content.Load<Texture2D>("2ndBackground");
@@ -116,7 +116,7 @@ namespace SpeedRunners_SM
             otherPokemonObstacle = Content.Load<Texture2D>("Rock");
             otherPokeball = Content.Load<Texture2D>("Pokeball2");
 
-            elseBackground = Content.Load<Texture2D>("Otherbackground 2");
+            elseBackground = Content.Load<Texture2D>("Otherbackground 3");
             elsePokemon = Content.Load<Texture2D>("Squirtle");
             elsePokemonProjectile = Content.Load<Texture2D>("SquirtleAttack");
             elsePokemonDED = Content.Load<Texture2D>("DEDSquirtle");
@@ -140,7 +140,7 @@ namespace SpeedRunners_SM
             delay = new TimeSpan(0, 10, 0);
             lost = false;
             Txt = "Level 1";
-            level = 1;
+            level = 4;
             scale = new Vector2(1, 1);
             staminaBar = new StaminaBar(Content.Load<Texture2D>("Stamina Slow Orang"), Content.Load<Texture2D>("Stamina Speed BLue"), new Vector2 (200,3), origin, Color.White, effects, layerDepth, rotate, scale);
             // TODO: use this.Content to load your game content here
@@ -168,20 +168,24 @@ namespace SpeedRunners_SM
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-            //background speed 
-            pos += -1;
+            //background speeeeeeeeed 
+            pos -= 2;
             scrolling.Update(pos);
             // TODO: Add your update logic here
             
             if (pikachu.Position.X + pikachu.Width > GraphicsDevice.Viewport.Width)
             {
                 level++;
+                pikachu.Position = new Vector2(0, pikachu.Position.Y);
+                staminaBar.staminaPercentage = 100;
                 if (level == 5)
                 {
 
 
-                    //get dead texture for bulbasaur and attack texture.                
+                    //get dead texture for bulbasaur and attack texture. 
+                    
                     scrolling = new ScrollingBackground(otherBackground);
+                    pos = 0;
                     GoodBricks.Clear();
                     GoodBrickImage = otherPokemonObstacle;
                     obstacles.Clear();
@@ -192,13 +196,19 @@ namespace SpeedRunners_SM
 
 
                     //thunderBolt = new ThunderBolt(otherPokemonProjectile, Vector2.Zero, Color.White, Vector2 );
+
                 }
-                
+                staminaBar.staminaPercentage = 100;
+                delay = new TimeSpan(TimeSpan.TicksPerMillisecond * (65000 / level));
+                pikachu.Reset(0, pikachu.Position.Y);
+                addNewObstacle();
+                elapsedTime = TimeSpan.Zero;
+
 
                 if (level == 10)
                 {
                     //get dead texture for squirtle and attack texture
-                    scrolling = new ScrollingBackground(otherBackground);
+                    scrolling = new ScrollingBackground(elseBackground);
                     GoodBricks.Clear();
                     GoodBrickImage = elsePokemonObstacle;
                     obstacles.Clear();

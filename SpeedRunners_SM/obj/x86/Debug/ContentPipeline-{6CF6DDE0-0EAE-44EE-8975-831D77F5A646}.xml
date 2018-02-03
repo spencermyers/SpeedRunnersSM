@@ -71,7 +71,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Squirtle.xnb</Output>
-      <Time>2017-03-11T12:11:46-08:00</Time>
+      <Time>2018-02-03T11:37:28.2908919-08:00</Time>
     </Item>
     <Item>
       <Source>Pikachu.png</Source>
@@ -137,15 +137,6 @@
       <Time>2017-08-26T11:16:16-07:00</Time>
     </Item>
     <Item>
-      <Source>OtherBackground.png</Source>
-      <Name>OtherBackground</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\OtherBackground.xnb</Output>
-      <Time>2017-10-21T11:40:12-07:00</Time>
-    </Item>
-    <Item>
       <Source>2ndBackground.png</Source>
       <Name>2ndBackground</Name>
       <Importer>TextureImporter</Importer>
@@ -197,7 +188,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Pokeball2.xnb</Output>
-      <Time>2017-12-16T12:17:12-08:00</Time>
+      <Time>2018-01-20T12:07:44.3287366-08:00</Time>
     </Item>
     <Item>
       <Source>Levels.spritefont</Source>
@@ -224,7 +215,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\SquirtleAttack.xnb</Output>
-      <Time>2018-01-13T11:23:45.6950234-08:00</Time>
+      <Time>2018-02-03T12:01:18.933131-08:00</Time>
     </Item>
     <Item>
       <Source>DEDSquirtle.png</Source>
@@ -233,7 +224,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\DEDSquirtle.xnb</Output>
-      <Time>2018-01-13T11:55:10.4477549-08:00</Time>
+      <Time>2018-01-20T12:06:15.2067884-08:00</Time>
     </Item>
     <Item>
       <Source>MasterBALL.png</Source>
@@ -242,7 +233,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\MasterBALL.xnb</Output>
-      <Time>2018-01-13T12:08:43.3036604-08:00</Time>
+      <Time>2018-01-20T12:07:17.5267754-08:00</Time>
     </Item>
     <Item>
       <Source>SHel.png</Source>
@@ -251,16 +242,25 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\SHel.xnb</Output>
-      <Time>2018-01-13T12:06:20.4409108-08:00</Time>
+      <Time>2018-01-20T12:03:57.5424301-08:00</Time>
     </Item>
     <Item>
-      <Source>Otherbackground 2.png</Source>
-      <Name>Otherbackground 2</Name>
+      <Source>Otherbackground 3.png</Source>
+      <Name>Otherbackground 3</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Otherbackground 2.xnb</Output>
-      <Time>2018-01-06T12:11:53.6138697-08:00</Time>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\Otherbackground 3.xnb</Output>
+      <Time>2018-02-03T11:26:05.468249-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SquirtleAttack2.png</Source>
+      <Name>SquirtleAttack2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SpencerMyers\Desktop\SpeedRunners SM Official\SpeedRunners_SM\bin\x86\Debug\Content\SquirtleAttack2.xnb</Output>
+      <Time>2018-01-13T11:23:45.6950234-08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

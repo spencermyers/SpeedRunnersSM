@@ -143,13 +143,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="OtherBackground.png">
-      <Name>OtherBackground</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="2ndBackground.png">
       <Name>2ndBackground</Name>
       <Importer>TextureImporter</Importer>
@@ -192,8 +185,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SquirtleAttack.png">
-      <Name>SquirtleAttack</Name>
+    <Compile Include="SquirtleAttack2.png">
+      <Name>SquirtleAttack2</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
@@ -207,11 +200,6 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Otherbackground 2.png">
-      <Name>Otherbackground 2</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
     <Compile Include="SHel.png">
       <Name>SHel</Name>
       <Importer>TextureImporter</Importer>
@@ -221,6 +209,20 @@
   <ItemGroup>
     <Compile Include="cityBackgrnd.png">
       <Name>cityBackgrnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Otherbackground 3.png">
+      <Name>Otherbackground 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SquirtleAttack.png">
+      <Name>SquirtleAttack</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
